@@ -8,8 +8,18 @@ The detailed explanation of the project, dashboards, and insights is provided in
 
 ## 🛠 Tools Used
 - Power BI
-- Microsoft Excel
-- PowerPoint
+- Microsoft Excel / CSV
+
+## 🗄 Data Source
+The dataset used in this project is included in the repository for reference and learning purposes.
+
+- Format: Excel / CSV
+- Contains sales and business-related data used for dashboard creation
+
+## 🗄 Data Source
+The data was sourced from a SQL database and imported into Power BI for analysis.
+The database is not included due to data privacy reasons.
+
 
 ## 📂 Project Files
 - **PowerBIProject.pdf** – Complete project documentation :contentReference[oaicite:0]{index=0}
